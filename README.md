@@ -29,3 +29,11 @@ Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado p
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***Negrito/Itálico***
 
+## Parágrafo com destaque
+
+Para escrever um parágrafo com destaque, utilizamos o símbolo >.
+
+> Esse é um parágrafo destacado do resto do texto.
+> Se quiser continuar com o parágrafo destacado, só colocar em cada linha abaixo da primeiro outro símbolo >
+> Como por exemplo essas três linhas.
+
